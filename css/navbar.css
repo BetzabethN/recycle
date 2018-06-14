@@ -105,4 +105,11 @@ body {
 
       }
       
+      #highlight {
+        color: rgb(69, 188, 111);
+        display: inline-block;
+      }
       
+      #horiz_line {
+        color: white;
+      }
